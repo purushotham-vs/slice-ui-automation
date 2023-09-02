@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Suite">
+    <test name="PL Fresh">
+        <classes>
+            <class name="com.slice.runners.PostPurchaseE2e"/>
+        </classes>
+    </test>
+
+<!--    <test name="PL Miscellaneous Cases">-->
+<!--        <classes>-->
+<!--            <class name="com.slice.runners.Miscellaneousrunner"/>-->
+<!--        </classes>-->
+<!--    </test>-->
+
+<!--    <test name="PL Repeat">-->
+<!--        <classes>-->
+<!--            <class name="com.slice.runners.RepeatE2e"/>-->
+<!--        </classes>-->
+<!--    </test>-->
+
+<!--    <test name="PL TopUp">-->
+<!--        <classes>-->
+<!--            <class name="com.slice.runners.TopUpE2e"/>-->
+<!--        </classes>-->
+<!--    </test>-->
+</suite>

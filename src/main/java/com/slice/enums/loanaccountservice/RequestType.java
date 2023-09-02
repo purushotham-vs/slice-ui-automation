@@ -1,0 +1,12 @@
+package com.slice.enums.loanaccountservice;
+
+public enum RequestType {
+  PENNY_DROP,
+  REPAYMENT,
+  DISBURSEMENT,
+  MANDATE_REGISTRATION,
+  MANDATE_PAYMENT,
+  MANDATE_COLLECTION,
+  REFUND,
+  PRE_DISBURSEMENT_REPAYMENT
+}
